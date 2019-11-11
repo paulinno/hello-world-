@@ -1,2 +1,3 @@
 # hello-world-
-my second hello world project!
+this my second hello world project!
+working on a second trial commit
